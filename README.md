@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Santosh Kumar
 
-🚀 Passionate Full Stack Developer | Cloud & Security Enthusiast
+🚀 Passionate Full Stack Developer
 
 ---
 
 ## 💫 About Me
 
 * 🔭 I’m currently working on **Full Stack Web Applications**
-* 🌱 Learning **React, Spring Boot, Cloud Security**
-* 👨‍💻 Interested in **Web Development & Secure Systems**
+* 🌱 Learning **React, Spring Boot, Java
+* 👨‍💻 Interested in ** Web Development **
 * 📚 MCA Student working on projects like:
 
   * QR Based Food Ordering System
@@ -32,14 +32,13 @@
 
 ### 🗄️ Database
 
-* MySQL
+* SQL
 
 ### ☁️ Tools & Technologies
 
 * Git & GitHub
 * Postman
 * VS Code / STS
-* Docker (Learning)
 
 ---
 
@@ -75,7 +74,6 @@
 
 * Advanced React (Hooks, Redux)
 * Spring Security & JWT
-* Cloud & DevOps Basics
 
 ---
 
